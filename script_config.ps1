@@ -16,7 +16,7 @@
 function Show-Menu {
     Clear-Host
     Write-Host "============================================="
-    Write-Host "  OPTIMIZADOR DEFINITIVO CON REINICIO  "
+    Write-Host "  OPTIMIZADOR DEFINITIVO "
     Write-Host "============================================="
     Write-Host "1. Ejecutar TODO (Chris Titus + Optimizaciones)"
     Write-Host "2. Solo Chris Titus (config estándar)"
