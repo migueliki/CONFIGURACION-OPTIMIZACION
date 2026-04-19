@@ -1,3 +1,7 @@
+DESACTIVAR EL HPET
+bcdedit /set useplatformclock no
+bcdedit /set disabledynamictick yes
+
 Optimizar ssd con driver
 El primer comando activa la anulación de la gestión de funciones:
 
